@@ -1,6 +1,6 @@
 {
   "name": "repotest",
-  "version": "1.0.0-monorepo",
+  "version": "1.0.1-monorepo",
   "description": "repotest library and cli utility",
   "files": [
     "help/cli-commands",
